@@ -1,4 +1,7 @@
 # Vraj Patel's First CS193 Homework
+- I like the fact that CS 193 is taught by students instead of actual professors
+- I like that CS 193 is a no BS class that teaches us CS-related skills that are actually useful
+- I like that CS 193 teaches all these useful things while only being a light 1 credit class
 
 ## Welcome to GitHub Pages
 
